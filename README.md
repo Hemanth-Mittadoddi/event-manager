@@ -28,7 +28,7 @@ A simple FastAPI-based event management system to create and manage events and a
 1. Clone the repo or unzip the project folder:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Hemanth-Mittadoddi/event-manager
    cd event-manager
 2. Create a virtual environment and activate it:
 
